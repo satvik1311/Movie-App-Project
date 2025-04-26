@@ -1,4 +1,4 @@
-Description
+
 The Movie App is a simple and user-friendly web application that allows users to discover, search, and explore movies. It fetches real-time data from a movie API to display popular, top-rated, and trending movies. Users can view movie details such as title, poster, description, ratings, release date, and more. The app is designed to offer a clean and smooth browsing experience for movie enthusiasts.
 
 Features
